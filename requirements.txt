@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+python-jose
+werkzeug
+python-dotenv
+psycopg2-binary
+google-generativeai
+pydantic
+python-multipart
